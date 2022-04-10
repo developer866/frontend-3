@@ -1,0 +1,120 @@
+ .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+    body{
+      background:hsl(217, 54%, 11%) ;
+      font-family:'outfit';
+    } 
+    .container{
+      background: #15273F;
+      padding: 20px;
+      margin:75px  auto;
+      width: 342px;
+      height: 544px;
+      border-radius: 15px;
+      
+    }
+    h3{
+      font-weight: 600;
+    }
+    .eth{
+      display: flex;
+      color: #10DCE3;
+      justify-content: space-between;
+      margin-top: 10px;
+    }
+    .eth-2{
+      color: #91A8C8;
+    }
+    .content{
+      background: url(/images/image-equilibrium.jpg) center/cover;
+      border-radius: inherit;
+      text-align: center;
+      width: 324px;
+      height: 297px;
+      margin: 0 auto;
+    }
+    #sp-text{
+      color: white;
+    }
+   #sp-text:hover{
+    color: #10DCE3;
+   } 
+    p{
+      color:#91A8C8;
+      font-size: 18px;
+    }
+    .create{
+      border-top: white 1px solid;
+      margin-top: 30px;
+      display: flex;
+      padding-top: 20px;
+      padding-left:5px;
+    }
+    #p{
+      padding-top:8px ;
+      padding-left: 10px;
+      color:#91A8C8;
+    }
+    .sub-conatiner{
+      height: 245px;
+    }
+    @media (max-width:520px) {
+      body{
+      background:hsl(217, 54%, 11%) ;
+      font-family:outfit;
+    } 
+    .container{
+      background: #15273F;
+      padding: 20px;
+      margin:120px  auto;
+      width: 342px;
+      height: 544px;
+      border-radius: 15px;
+      
+    }
+    h3{
+      font-weight: 600;
+    }
+    .eth{
+      display: flex;
+      color: #10DCE3;
+      justify-content: space-between;
+      margin-top: 10px;
+    }
+    .eth-2{
+      color: #91A8C8;
+    }
+    .content{
+      background: url(/images/image-equilibrium.jpg) center/cover;
+      border-radius: inherit;
+      text-align: center;
+      width: 324px;
+      height: 297px;
+      margin: 0 auto;
+    }
+    #sp-text{
+      color: white;
+    }
+   #sp-text:hover{
+    color: #10DCE3;
+   } 
+    p{
+      color:#91A8C8;
+      font-size: 18px;
+    }
+    .create{
+      border-top: white 1px solid;
+      margin-top: 30px;
+      display: flex;
+      padding-top: 20px;
+      padding-left:5px;
+    }
+    #p{
+      padding-top:8px ;
+      padding-left: 10px;
+      color:#91A8C8;
+    }
+    .sub-conatiner{
+      height: 245px;
+    }
+    }
