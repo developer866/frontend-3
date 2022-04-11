@@ -31,10 +31,16 @@
       height: 297px;
       margin: 0 auto;
     }
-    #sp-text{
+    #sp-text-1{
       color: white;
     }
-   #sp-text:hover{
+     #sp-text-2{
+      color: white;
+    }
+   #sp-text-1:hover{
+    color: #10DCE3;
+   } 
+    #sp-text-2:hover{
     color: #10DCE3;
    } 
     p{
@@ -48,7 +54,12 @@
       padding-top: 20px;
       padding-left:5px;
     }
-    #p{
+    #p-1{
+      padding-top:8px ;
+      padding-left: 10px;
+      color:#91A8C8;
+    }
+    #p-2{
       padding-top:8px ;
       padding-left: 10px;
       color:#91A8C8;
